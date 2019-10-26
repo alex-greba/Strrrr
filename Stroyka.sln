@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stroyka", "Stroyka.csproj", "{B73AB466-7DBF-4D72-B51C-819A08853992}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B73AB466-7DBF-4D72-B51C-819A08853992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B73AB466-7DBF-4D72-B51C-819A08853992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B73AB466-7DBF-4D72-B51C-819A08853992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B73AB466-7DBF-4D72-B51C-819A08853992}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2A404C4-C6FC-4062-A6F9-BACE2205642E}
+	EndGlobalSection
+EndGlobal
